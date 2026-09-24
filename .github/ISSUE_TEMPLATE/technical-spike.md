@@ -2,7 +2,7 @@
 name: Technical Spike
 about: Timeboxed research for unknown technical solution
 title: 'Spike: [What are we researching]'
-labels: research
+labels: story
 assignees: ''
 type: Task
 
