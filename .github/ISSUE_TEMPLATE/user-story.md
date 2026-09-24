@@ -2,7 +2,7 @@
 name: User Story
 about: Create a new feature for the user
 title: 'Story: [Story title]'
-labels: enhancement, story
+labels: story
 assignees: ''
 type: Feature
 
