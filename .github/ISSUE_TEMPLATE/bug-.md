@@ -2,7 +2,7 @@
 name: 'Bug '
 about: Bug fix
 title: ''
-labels: ''
+labels: story
 assignees: ''
 
 ---
